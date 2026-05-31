@@ -1,0 +1,8 @@
+Desde mi punto APIs pueden ayudar a las comunidades a compartir información
+de manera rápida y organizada, ya que permiten que las aplicaciones puedan
+intercambiar datos automáticamente. Esto podría usarse para utilizarse para
+difundir alertas sobre emergencias o eventos relevantes en una comunidad.
+Las APIs tambien permiten que los datos se mantengan estructurados, sean 
+fáciles de consultar y actualizar, de manera que los errores se reducen. 
+Otro de los aspectos positivos es que facilitan la comunicación entre la 
+comunidad y las autoridades. 
