@@ -2,5 +2,5 @@ La ruta POST/reporte es un punto de entrada que recibe información. Se utiliza
 para generar, procesar y enviar información al servidor. Esta ruta podría
 utilizarse para que los ciudadanos reporten problemas o situaciones dentro de
 sus comunidades, ya sean fallas en servidores, incidentes de seguridad, etc.
-La aplicación recibiría el reporte y lo almacenaría para que las autoridades
-correspondientes puedan hacer un proceso de seguimiento adecuado.  
+La aplicación entonces recibiría el reporte y lo almacenaría para que las 
+autoridades correspondientes puedan hacer un proceso de seguimiento adecuado.  
