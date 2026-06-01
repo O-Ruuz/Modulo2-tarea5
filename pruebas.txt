@@ -1,0 +1,7 @@
+1. Al ingresar a la ruta http://localhost:3000/, el servidor muestra el 
+mensaje de bienvenida por defecto “servidor activo”. 
+2. La ruta http://localhost:3000/saludo, devuelve el saludo definido, el 
+cual es “hola comunidad”. Demuestra como responde a una URL.
+3. La ruta http://localhost:3000/mensaje/juan, devuelve el saludo personalizado
+“hola juan”. A manera general esto permite comprobar la capacidad del servidor 
+para responder a diferentes solicitudes HTTP.
